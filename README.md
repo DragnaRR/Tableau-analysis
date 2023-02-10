@@ -11,7 +11,7 @@ It is crafted in a way that all kinds of plots, charts and graphs can be positio
 ## Customer Analysis
 Customer analysis is the practice of using qualitative and quantitative data to gain insight into the customers. The goal is to understand their needs, points, and objectives. At the same time, customer analysis helps us understand what drives people to make a purchase, how and when these purchases happen, the frequency of these purchases, and other relevant information.
 
-#### Total revenue as per state
+- #### Total revenue as per state
 ![Revenue](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/revenue_state.PNG)
 
 #### Total revenue per month
