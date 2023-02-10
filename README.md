@@ -28,17 +28,17 @@ Customer analysis is the practice of using qualitative and quantitative data to 
 
 - #### Revenue based on category and gender
 ![revenue](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/revenue_gender.PNG)
--- calculated field: Female revenue
+##### calculated field: Female revenue
 ```
 IF [Gender] = 'F' THEN [Total]
 END
 ```
--- calculated field: Male revenue
+##### calculated field: Male revenue
 ```
 IF [Gender] = 'M' THEN [Total]
 END
 ```
--- calculated field: axis
+##### calculated field: axis
 ```
 0
 ```
