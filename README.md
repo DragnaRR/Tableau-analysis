@@ -46,3 +46,18 @@ END
 ```
 - #### Customer Analysis Dashboard
 ![customer](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/customer.PNG)
+
+## Product Sales Analysis
+A product sales analysis is a detailed report that shows a business's sales performance, as well as customer data and generated revenue. The report defines the strengths and weaknesses of products and sales teams by referencing historical and current metrics to detect emerging trends that are most relevant to a company.
+
+- #### Product sales
+![product sales](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/product_sales.PNG)
+
+- #### Average sales
+![avg sales](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/avg_sales.PNG)
+
+- #### Product category chart
+![category chart](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/product%20category%20chart.PNG)
+
+- #### Product sales analysis
+![sales analysis](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/product%20sales%20analysis.PNG)
