@@ -60,9 +60,10 @@ A product sales analysis is a detailed report that shows a business's sales perf
 ![category chart](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/product%20category%20chart.PNG)
 
 - #### Product sales analysis
-<br> </br>
+<br>
 ![sales analysis](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/product%20sales%20analysis.PNG)
-
+</br>
 ## Covid-19 Scatter plot
-<br> </br>
+<br>
 ![covid](/screenshots/covid.PNG)
+</br>
