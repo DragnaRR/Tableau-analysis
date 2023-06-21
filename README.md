@@ -14,7 +14,7 @@ Customer analysis is the practice of using qualitative and quantitative data to 
 [link to the dataset](https://www.kaggle.com/datasets/saileshedara/customer-analysis)
 
 - #### Total revenue as per state
-![Revenue](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/revenue_state.png)
+![Revenue](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/revenue_state.PNG)
 
 - #### Total revenue per month
 ![Revenue](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/revenue_mon.PNG)
@@ -63,4 +63,4 @@ A product sales analysis is a detailed report that shows a business's sales perf
 ![sales analysis](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/product%20sales%20analysis.PNG)
 
 ## Covid-19 Scatter plot
-![covid](https://github.com/DragnaRR/Tableau-analysis/screenshots/covid.PNG)
+![covid](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/covid.PNG)
