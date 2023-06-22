@@ -51,7 +51,7 @@ END
 A product sales analysis is a detailed report that shows a business's sales performance, as well as customer data and generated revenue. The report defines the strengths and weaknesses of products and sales teams by referencing historical and current metrics to detect emerging trends that are most relevant to a company.
 
 - #### Product sales
-![product sales](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/product_sales.PNG)
+![product_sales](https://github.com/DragnaRR/Tableau-analysis/assets/95096810/5840fe10-8094-4646-86cb-336a49b2ae69)
 
 - #### Average sales
 ![avg_sales](https://github.com/DragnaRR/Tableau-analysis/assets/95096810/8d551f59-819c-4a8c-a4c8-742dac145db6)
