@@ -65,6 +65,7 @@ A product sales analysis is a detailed report that shows a business's sales perf
 
 ## Covid-19 Scatter plot
 
+![sample](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/1020px-SARS-CoV-2_without_background.png)
 <p>
 <img src="https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/covid.PNG?raw=true" width="100" height="100" />
 </p>
