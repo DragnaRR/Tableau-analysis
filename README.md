@@ -14,7 +14,7 @@ Customer analysis is the practice of using qualitative and quantitative data to 
 [link to the dataset](https://www.kaggle.com/datasets/saileshedara/customer-analysis)
 
 - #### Total revenue as per state
-![Revenue](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/revenue_state.PNG)
+![revenue](https://github.com/DragnaRR/Tableau-analysis/assets/95096810/0129f13f-9a08-4e5d-ba4b-56aa1defed5d)
 
 - #### Total revenue per month
 ![Revenue](https://github.com/DragnaRR/Tableau-analysis/blob/main/screenshots/revenue_mon.PNG)
